@@ -1,3 +1,4 @@
+#! /usr/bin/python3
 N = int(input().strip())    
 def svar(N):
     temp1 = 4**N

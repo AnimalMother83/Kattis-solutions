@@ -8,7 +8,7 @@
   </tr>
   <tr>
     <td> <a href="https://kth.kattis.com/problems/planina">Planina</a> </td>
-    <td> <a href="https://kth.kattis.com/problems/planina">Solution</a> </td>
+    <td> <a href="/problems/planina">Solution</a> </td>
     <td> Python </td>
   </tr>
   <tr>

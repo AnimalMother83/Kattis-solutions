@@ -16,8 +16,7 @@ if N%2 == 0: #OM JÄMNT ANTAL ÖVERSKRIVNINGAR
 
     else:
         print("Deletion failed")
-    
-    
+
 else: # OM UDDA ANTAL ÖVERSKRIVNINGAR
     in1_list = list(in1)
     in1_list = [int(i) for i in in1_list]
@@ -29,7 +28,6 @@ else: # OM UDDA ANTAL ÖVERSKRIVNINGAR
         new_list.append(abs(in1_list[i]-in2_list[i]))
     if new_list.count(0)==0:
         print("Deletion succeeded")
-    
-        
+
     else:
         print("Deletion failed")

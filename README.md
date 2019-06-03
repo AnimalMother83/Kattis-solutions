@@ -12,6 +12,9 @@
     <td> Python </td>
   </tr>
   <tr>
+    <td> <a href="https://open.kattis.com/problems/equivalences">Proving Equivalences</a> </td>
+    <td> <a href="proving_equivalences.py">Solution</a> </td>
+    <td> Python </td>
   </tr>
 </table>
 

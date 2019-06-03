@@ -17,9 +17,14 @@
     <td> Python </td>
   </tr>
   <tr>
-  <td> <a href="https://open.kattis.com/problems/erase">Erase Securely</a> </td>
-  <td> <a href="erase_securely.py">Solution</a> </td>
-  <td> Python </td>
+    <td> <a href="https://open.kattis.com/problems/erase">Erase Securely</a> </td>
+    <td> <a href="erase_securely.py">Solution</a> </td>
+    <td> Python </td>
+  </tr>
+  <tr>
+    <td> <a href="https://open.kattis.com/problems/ladder">Ladder</a> </td>
+    <td> <a href="ladder.py">Solution</a> </td>
+    <td> Python </td>
   </tr>
 </table>
 

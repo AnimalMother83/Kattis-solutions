@@ -1,7 +1,6 @@
 #! /usr/bin/python3
 import sys
 
-
 N = 2
 M = []
 for line in sys.stdin:
@@ -10,7 +9,6 @@ for line in sys.stdin:
 N = int(M[0])
 in1 = str(M[1])
 in2 = str(M[2])
-
 
 if N%2 == 0: #OM JÄMNT ANTAL ÖVERSKRIVNINGAR
     if  in1==in2:
